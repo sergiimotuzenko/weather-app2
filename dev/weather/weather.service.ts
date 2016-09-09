@@ -12,8 +12,7 @@ export class WeatherService{
     constructor(private  _http : Http){
 
     }
-
-
+    //some ch
     getWeatherItems(){
         return WEATHER_ITEMS;
     }
