@@ -14,7 +14,7 @@ import {WeatherItem} from "./weather-item";
             </div>
             <h3>{{name}}</h3>
         </article>
-    `,
+    `,    
     inputs:['weatherItem:item'],
     styleUrls: ['src/css/weather-item.css']
 })
